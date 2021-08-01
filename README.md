@@ -5,6 +5,9 @@ NodeJS project to maintain records of user and leads. (Server side code with tes
 ## SETUP 
 ### Create a MYSQL database test with schema as in the user_schema.sql
 
-### Run nodemon script
+### Run 
+```javascript
+nodemon script
+```
 
 ### Run npm test
