@@ -10,6 +10,14 @@ For development, all the dependencies are in the [package.json](https://github.c
 ---
 ### Create a MYSQL database test with schema as in the [user_schema.sql](https://github.com/harsh3029/User-Resource-Manager/blob/main/user_schema.sql)
 
+---
+
+## Install
+
+    $ git clone https://github.com/harsh3029/User-Resource-Manager
+    $ cd User-Resource-Manager
+    
+
 ## Running the project
 
     $ npm script 
@@ -52,11 +60,7 @@ If you need to update `npm`, you can make it using `npm`!
 
 ---
 
-## Install
 
-    $ git clone https://github.com/harsh3029/User-Resource-Manager
-    $ cd User-Resource-Manager
-    
 
 
 
