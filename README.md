@@ -12,7 +12,11 @@ For development, all the dependencies are in the [package.json](https://github.c
 
 ## Running the project
 
-    $ npm script or nodemon script
+    $ npm script 
+
+OR    
+
+    $ nodemon script
 
 
 
