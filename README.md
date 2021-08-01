@@ -10,14 +10,10 @@ For development, all the dependencies are in the [package.json](https://github.c
 ---
 ### Create a MYSQL database test with schema as in the [user_schema.sql](https://github.com/harsh3029/User-Resource-Manager/blob/main/user_schema.sql)
 
-### Run 
-```javascript
-nodemon script
-```
+## Running the project
 
-```javascript
-npm test
-```
+    $ npm script or nodemon script
+
 
 
 ### Node
@@ -44,7 +40,7 @@ If the installation was successful, you should be able to run the following comm
     $ npm --version
     6.1.0
 
-If you need to update `npm`, you can make it using `npm`! Cool right? After running the following command, just open again the command line and be happy.
+If you need to update `npm`, you can make it using `npm`! 
 
     $ npm install npm -g
 
@@ -60,7 +56,4 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 
 
-## Running the project
-
-    $ npm script or nodemon script
 
